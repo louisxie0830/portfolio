@@ -45,16 +45,16 @@
 2. **台灣 pay 畫面改版**
 
    - 改進台灣 Pay 支付界面，提高用戶體驗和操作便利性。
-   - ![台灣pay畫面改版](path/to/taiwanpay-redesign-image.png)
+     <img src="./images/Screenshot_20240728-155550345.jpg" alt="台灣 pay 改版" width=200><img src="./images/Screenshot_20240728-155946861.jpg" alt="台灣 pay 改版" width=200><img src="./images/Screenshot_20240728-155955514.jpg" alt="台灣 pay 改版" width=200>
 
 3. **Plus pay**
 
    - 將 Plus Pay SDK 集成到現有應用中，支持更多支付方式。
-   - ![plus pay sdk串接](path/to/pluspay-sdk-integration-image.png)
+     <img src="./images/Screenshot_20240728-160051155.jpg" alt="Plus pay" width=200>
 
 4. **轉帳成功訊息分享**
    - 實現轉帳成功後的訊息分享功能，使用戶可以將轉帳成功訊息分享到 Line 等社交平台。
-   - ![轉帳成功分享](path/to/transfer-success-share-image.png)
+   <img src="./images/Screenshot_20240728-160411563.jpg" alt="轉帳成功訊息分享" width=200>
 
 ---
 
@@ -62,7 +62,7 @@
 
 ### 使用技術
 
-- Html
+- HTML
 - JavaScript
 - CSS
 - Cordova
@@ -82,8 +82,6 @@
 ### 引入 Jenkins CI
 
 我負責將 Jenkins CI 引入開發流程，設置自動化構建和測試管道，大大提高開發效率和代碼質量，確保每次更新都經過充分測試並能快速部署。
-
-
 
 ### 工作內容
 
@@ -107,9 +105,10 @@
 
 ### 使用技術
 
+- HTML
 - Angular.js
 - Vue.js
-- javascript
+- JavaScript
 - CSS
 - SCSS
 - require.js
