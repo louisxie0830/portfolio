@@ -45,16 +45,20 @@
 2. **台灣 pay 畫面改版**
 
    - 改進台灣 Pay 支付界面，提高用戶體驗和操作便利性。
+
+
      <img src="./images/Screenshot_20240728-155550345.jpg" alt="台灣 pay 改版" width=200><img src="./images/Screenshot_20240728-155946861.jpg" alt="台灣 pay 改版" width=200><img src="./images/Screenshot_20240728-155955514.jpg" alt="台灣 pay 改版" width=200>
 
 3. **Plus pay**
 
    - 將 Plus Pay SDK 集成到現有應用中，支持更多支付方式。
+  
      <img src="./images/Screenshot_20240728-160051155.jpg" alt="Plus pay" width=200>
 
 4. **轉帳成功訊息分享**
    - 實現轉帳成功後的訊息分享功能，使用戶可以將轉帳成功訊息分享到 Line 等社交平台。
-   <img src="./images/Screenshot_20240728-160411563.jpg" alt="轉帳成功訊息分享" width=200>
+  
+     <img src="./images/Screenshot_20240728-160411563.jpg" alt="轉帳成功訊息分享" width=200>
 
 ---
 
