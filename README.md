@@ -84,7 +84,8 @@
 1. **Richart App 前端開發和維護**
 
    - 在 Richart 專案中，我主要負責 Richart App 的前端開發和維護，確保應用程序的穩定性和用戶體驗。
-     <a><img src="./images/richart.jpg" width=200></a>
+
+   <a><img src="./images/richart.jpg" width=200></a>
 
 2. **協助 TFS 看板轉入 JIRA**
 
