@@ -40,7 +40,12 @@
 
    - 重新設計和實施基金管理系統的前端界面，使其更加直觀和易用。
    - 使用設計模式使元件可以重複利用，應用於海外債、美股頁面。
-   <!-- - ![基金改版](path/to/fund-redesign-image.png) -->
+   
+   <img src="./images/Screenshot_20240728-160100355.jpg" alt="基金改版" width=200/><img src="./images/Screenshot_20240728-160112114.jpg" alt="基金改版" width=200/><img src="./images/Screenshot_20240728-160118146.jpg" alt="基金改版" width=200/><img src="./images/Screenshot_20240728-160124418.jpg" alt="基金改版" width=200/><img src="./images/Screenshot_20240728-160134558.jpg" alt="基金改版" width=200 /><img src="./images/Screenshot_20240728-160150604.jpg" alt="基金改版" width=200/><img src="./images/Screenshot_20240728-160156513.jpg" alt="基金改版" width=200/><img src="./images/Screenshot_20240728-160203207.jpg" alt="基金改版" width=200/><img src="./images/Screenshot_20240728-160210372.jpg" alt="基金改版" width=200/><img src="./images/Screenshot_20240728-160215998.jpg" alt="基金改版" width=200/><img src="./images/Screenshot_20240728-160243473.jpg" alt="基金改版" width=200/>
+   
+   - 美股頁面
+  
+      <img src="./images/Screenshot_20240728-160307662.jpg" alt="美股" width=200/><img src="./images/Screenshot_20240728-160313815.jpg" alt="美股" width=200/><img src="./images/Screenshot_20240728-160320529.jpg" alt="美股" width=200/>
 
 2. **台灣 pay 畫面改版**
 
