@@ -1,14 +1,15 @@
 # Louis' 作品集
 
-## 介紹
+<!-- ## 介紹
 
-歡迎來到我的作品集！我是 Louis Xie，一位具有豐富經驗的前端開發者和架構師，專注於構建高效、安全且用戶友好的網絡應用。我在金融科技、電信和銀行業務領域有多年的工作經歷，並且在項目管理、敏捷開發和技術架構設計方面有著深厚的積累。通過這個作品集，我將展示我的主要項目和技術專長，並分享我在各個項目中所獲得的寶貴經驗和成就。
+歡迎來到我的作品集！我是 Louis Xie，一位具有豐富經驗的前端開發者和架構師，專注於構建高效、安全且用戶友好的網絡應用。我在金融科技、電信和銀行業務領域有多年的工作經歷，並且在項目管理、敏捷開發和技術架構設計方面有著深厚的積累。通過這個作品集，我將展示我的主要項目和技術專長，並分享我在各個項目中所獲得的寶貴經驗和成就。 -->
 
 ## 專案
 
 1. [元大銀行專案](#元大銀行專案)
 2. [台新行銀行專案](#台新行銀行專案)
 3. [遠傳電信專案](#遠傳電信專案)
+4. [訊真科技專案](#訊真科技專案)
 
 ---
 
@@ -92,7 +93,7 @@
 
 我負責將 Jenkins CI 引入開發流程，設置自動化構建和測試管道，大大提高開發效率和代碼質量，確保每次更新都經過充分測試並能快速部署。
 
-### 工作內容
+### 負責的專案
 
 1. **Richart App 前端開發和維護**
 
@@ -128,17 +129,51 @@
 
 在遠傳電信專案中，我主要負責前端需求分析和開發工作，理解和分析業務需求，設計並實施用戶友好的界面，確保應用在各種設備上的一致性和響應速度。
 
-### 工作內容
+### 負責的專案
 
 1. **NSP 表單系統升級**
    - 負責 NSP 表單系統從 Angular.js 升級成 Vue.js，提升系統的性能和可維護性。
      <a href="https://scm.fareastone.com.tw/NSP/login.do">
      <img src="./images/nsp.png" alt="NSP表單系統">
      </a>
-1. **包膜師專案前端開發**
+2. **包膜師專案前端開發**
    - 負責包膜師專案的前端開發，確保應用程序的穩定性和用戶體驗。
      <a href="https://lami.fareastone.com.tw/lamination/#/Back/Login">
      <img src="./images/lamination.png" alt="包膜師專案">
+     </a>
+
+---
+
+
+## 訊真科技專案
+
+### 使用技術
+
+- HTML
+- Angular.js
+- JavaScript
+- CSS
+- LESS
+- Gulp
+
+### 前端開發
+
+在訊真科技專案中，我主要負責前端開發工作，理解業務需求，設計並實施用戶友好的界面，確保應用在各種設備上的一致性和響應速度。
+
+### 負責的專案
+
+1. **WorkDo**
+   - 負責 NSP 表單系統從 Angular.js 升級成 Vue.js，提升系統的性能和可維護性。
+   - 
+     <a href="https://www.workdo.co/Login#%2Faakhqsnm%2Faakhqsnm%2FC%2Fsft">
+     <img src="./images/www.workdo.co_!.png" alt="WorkDo">
+     </a><a href="https://www.workdo.co/Login#%2Faakhqsnm%2Faakhqsnm%2FC%2Fsft">
+     <img src="./images/www.workdo.co_! (1).png" alt="WorkDo">
+     </a><a href="https://www.workdo.co/Login#%2Faakhqsnm%2Faakhqsnm%2FC%2Fsft">
+     <img src="./images/www.workdo.co_! (2).png" alt="WorkDo">
+     </a>
+     <a href="https://www.workdo.co/Login#%2Faakhqsnm%2Faakhqsnm%2FC%2Fsft">
+     <img src="./images/www.workdo.co_! (3).png" alt="WorkDo">
      </a>
 
 ---
