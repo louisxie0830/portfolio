@@ -163,7 +163,7 @@
 ### 負責的專案
 
 1. **WorkDo**
-   - 負責 NSP 表單系統從 Angular.js 升級成 Vue.js，提升系統的性能和可維護性。
+   - 負責 WorkDo 的前端開發工作，確保應用程序的穩定性和用戶體驗。
    - 
      <a href="https://www.workdo.co/Login#%2Faakhqsnm%2Faakhqsnm%2FC%2Fsft">
      <img src="./images/www.workdo.co_!.png" alt="WorkDo">
