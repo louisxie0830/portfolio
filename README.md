@@ -133,12 +133,12 @@
 
 1. **NSP 表單系統升級**
    - 負責 NSP 表單系統從 Angular.js 升級成 Vue.js，提升系統的性能和可維護性。
-     <a href="https://scm.fareastone.com.tw/NSP/login.do">
+     <a>
      <img src="./images/nsp.png" alt="NSP表單系統">
      </a>
 2. **包膜師專案前端開發**
    - 負責包膜師專案的前端開發，確保應用程序的穩定性和用戶體驗。
-     <a href="https://lami.fareastone.com.tw/lamination/#/Back/Login">
+     <a>
      <img src="./images/lamination.png" alt="包膜師專案">
      </a>
 
